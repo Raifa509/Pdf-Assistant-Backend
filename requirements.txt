@@ -40,3 +40,5 @@ xxhash==3.8.1
 zstandard==0.25.0
 python-dotenv==1.1.1
 google-genai
+faiss-cpu
+numpy
