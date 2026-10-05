@@ -39,7 +39,4 @@ websockets==16.1.1
 xxhash==3.8.1
 zstandard==0.25.0
 python-dotenv==1.1.1
---extra-index-url https://download.pytorch.org/whl/cpu
-torch
-sentence-transformers
-numpy
+google-genai
